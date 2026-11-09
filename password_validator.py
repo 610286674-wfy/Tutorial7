@@ -1,4 +1,5 @@
 # CI测试练习2.0
+# CI test
 def validate_password(password):
     if not isinstance(password, str):
         print("Password must be a string")
